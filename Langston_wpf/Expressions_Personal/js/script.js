@@ -5,9 +5,12 @@
 
 var area1 = 40;   //Declaring value to the variable 
 
-var kitchenFloor = 12 * 4 (width * height);  //Multiplying the width times height to determine the area of kitchen floor
+var kitchenFloor = (width = 4, height = 12);  //Multiplying the width times height to determine the area of kitchen floor
 
-var area2 = 28  
+var area2 = 25;  //Declaring value for third variable
+
+Math.pow(5, 2); 
+
 
 
 
