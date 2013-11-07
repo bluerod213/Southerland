@@ -1,6 +1,6 @@
 //Langston Southerland 11/6/13 Personal - Expressions
 
-//Calculating the total of the area of my newly built rectangle kitchen floor and my square living room floor
+//Calculating the total of the area of my new rectangle kitchen floor and my square living room floor
 
 
 var area1 = 40;   //Declaring value to the variable 
@@ -9,7 +9,8 @@ var kitchenFloor = (width = 4, height = 12);  //Multiplying the width times heig
 
 var area2 = 25;  //Declaring value for third variable
 
-Math.pow(5, 2); 
+Math.pow(5, 2); //Using the value to the 2nd power
+console.log(area1+area2); //The sum of the area from both floors
 
 
 
