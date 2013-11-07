@@ -6,6 +6,8 @@
 
 var computerDisk = ["First Room", "Second Room", "Third Room", "Fourth Room"]; //The array that holds all the rooms from the office 
 
+var firstRoom = [20];  //First room value of CD's
+var secondRoom = [25];  //Second room value of CD's
 
 
 	
