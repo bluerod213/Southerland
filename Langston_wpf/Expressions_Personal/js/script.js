@@ -21,7 +21,7 @@ var moneySaved = 45; //Amount currently saved
 
 var total = Number(StringVar = "90"-45); //Turning string value into integer 
 
-
+console.log(total); //Total of money needed to make full payment to company
  
 
 
