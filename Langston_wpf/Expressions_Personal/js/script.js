@@ -5,6 +5,7 @@
 
 var area1 = 40;   //Declaring value to the variable 
 
+var kitchenFloor = 12 * 4 (width * height);
 
 
 
