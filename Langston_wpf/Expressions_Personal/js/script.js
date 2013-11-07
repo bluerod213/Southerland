@@ -14,5 +14,13 @@ console.log(area1+area2); //The sum of the area from both floors
 
 
 
+//Money needed for cell phone payment at the end of the month
+
+var moneyAmount = "90"; //Value of money that is owed to the phone company
+
+
+
+ 
+
 
 
