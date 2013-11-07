@@ -19,7 +19,12 @@ console.log(area1+area2); //The sum of the area from both floors
 var moneyAmount = "90"; //Value of money that is owed to the phone company
 var moneySaved = 45; //Amount currently saved
 
-var total = Number(StringVar);
+var total = Number(StringVar = "90"-45); //Turning string value into integer 
+
+
+ 
+
+
 
 
 
