@@ -12,3 +12,4 @@ var greenLight = prompt("Enter 65 seconds green light to function!") //Time limi
 
 alert("The machine is working proplerly!"); //All lights are in working condition
 
+console.log(" 70 seconds  \n 5 seconds  \n 65 seconds"); //The seconds the computer machine goes by when automatically transitioning through lights
