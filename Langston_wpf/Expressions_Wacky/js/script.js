@@ -9,3 +9,6 @@ var yellowLight = prompt("Enter 5 seconds for yellow light to function!"); //Tim
 
 var greenLight = prompt("Enter 65 seconds green light to function!") //Time limit after green light is activated
 
+
+alert("The machine is working proplerly!"); //All lights are in working condition
+
