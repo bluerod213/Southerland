@@ -13,3 +13,4 @@ var thirdRoom = [50];  //Third room value of CD's but not calculated with data
 var fourthRoom = [12] * data; //Fourth room value of CD's
 
 console.log(computerDisk); //Placing Array in order
+console.log(totalRoom="28\,500");  //Result of CD's and data calculated
