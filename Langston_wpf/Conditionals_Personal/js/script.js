@@ -12,6 +12,7 @@ var hoursBusy = 8;        // Hours spent on project
    ("Continue Working.")       //Conditional Statement is true therefore must continue working on project
  
   
- 
+  if(hoursBusy = 8)        //Another statement explaining hours busy on project equal 8     
+	
 
 
