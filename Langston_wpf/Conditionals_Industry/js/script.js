@@ -18,3 +18,7 @@ if(20 * 100 && computerMoniter >= b || c / d != 100) {
      console.log("Only use parts from b!")   //The conditional statement from line 15 is true. Only parts from b are used 
 
 
+}else{
+	      
+
+
