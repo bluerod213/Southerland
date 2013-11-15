@@ -13,6 +13,7 @@ var hoursBusy = 8;        // Hours spent on project
  
   
   if(hoursBusy = 8)        //Another statement explaining hours busy on project equal 8     
-	
+	 ("You can go home.")   //Worked exactly 8 hrs on the project,  time for break. 
+
 
 
