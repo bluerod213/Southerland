@@ -8,4 +8,10 @@ var hoursBusy = 8;        // Hours spent on project
    if(workHour > 9){          //Stating if work hour is greater than nine O'clock 
      ("You can go home.")   //If the hour is greater than nine you can go home; false.
 }else if(workHour < 5){        //Else if the work hour is less than 5 which is 4
+   
+   ("Continue Working.")       //Conditional Statement is true therefore must continue working on project
+ 
   
+ 
+
+
