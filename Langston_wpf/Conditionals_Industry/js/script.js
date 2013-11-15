@@ -21,4 +21,6 @@ if(20 * 100 && computerMoniter >= b || c / d != 100) {
 }else{
 	      
 
+console.log("Use parts from section a, c and d!"); }  //Statement is disregarded by computer because of true statement on line 18
+
 
