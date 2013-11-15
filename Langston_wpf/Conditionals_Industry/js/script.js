@@ -12,4 +12,7 @@ var d = 35;        //d has 35 parts
 
 
                       
-
+if(20 * 100 && computerMoniter >= b || c / d != 100) {
+	
+	                                         //if statement says if 200, computer moniter >= to b which = 69 or 30/35 not equal to 100
+}
