@@ -9,11 +9,15 @@ var hoursBusy = 8;        // Hours spent on project
      ("You can go home.")   //If the hour is greater than nine you can go home; false.
 }else if(workHour < 5){        //Else if the work hour is less than 5 which is 4
    
-   ("Continue Working.")       //Conditional Statement is true therefore must continue working on project
+     ("Continue Working.")       //Conditional Statement is true therefore must continue working on project
  
   
   if(hoursBusy = 8)        //Another statement explaining hours busy on project equal 8     
-	 ("You can go home.")   //Worked exactly 8 hrs on the project,  time for break. 
+	  ("You can go home.")   //Worked exactly 8 hrs on the project,  time for break. 
+ 
+console.log("You can go home.");   //Since latest if statement about hours busy is true, "You can go home."
+
+}
 
 
 
