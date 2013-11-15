@@ -9,7 +9,13 @@
 	 
 	 prompt("Enter amount of grapes on the farm before Friday!");   //Message for entering grapes on Farm previously
 	 
+	 prompt("Enter amount of grapes that were stolen!");         //Message for entering number of grapes stolen
+	 
+	 alert("Jake stole 0 grapes.");        //Message stating Jake stole 0 grapes
+	 
+	 
 	
+
 	 
 	 
 	 
