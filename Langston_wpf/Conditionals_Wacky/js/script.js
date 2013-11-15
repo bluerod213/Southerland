@@ -14,7 +14,9 @@
 	 alert("Jake stole 0 grapes.");        //Message stating Jake stole 0 grapes
 	 
 	 
-	
+	 alert("Jack is not guilty!");          //He is innocent from stealing grapes from the farm
+	 
+	 console.log(intGrapes);       //Resulting in false; Jack is not guilty
 
 	 
 	 
