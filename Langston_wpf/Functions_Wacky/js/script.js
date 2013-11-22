@@ -28,7 +28,15 @@ if('Yes')
 while(mountain=false);{
     
 
-
+        console.log('Build hill');
+}
+mountain=false;
+	{ 
+	
+	console.log('Build on mountain');
+	
+	}
+	
 	
    
 	
