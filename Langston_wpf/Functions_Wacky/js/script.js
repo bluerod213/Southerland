@@ -12,4 +12,25 @@ do {
        mountain = prompt('Is the mountain a great place for cathedral? (Type:Yes or No)');
        if('Yes'){
            mountain=true;
-ss
+
+       }
+
+    }
+while
+(hill=false);
+
+hill = prompt('What about the hill? (Type:Yes or No)') ;
+if('Yes')
+	       hill=true;
+}
+
+
+while(mountain=false);{
+    
+
+
+	
+   
+	
+
+
