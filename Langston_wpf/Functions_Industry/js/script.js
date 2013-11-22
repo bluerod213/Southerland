@@ -17,3 +17,5 @@ function cpuDisks(First1, Second2){
 
 function software (First1, Second2)
 
+{
+    return (30) * (2);
