@@ -14,3 +14,8 @@ var white = 15;                 //White has a value of 15
 var black = 10;                 //Black has a value of 10
 
 
+if(value == lightBlue)            //if statement
+return value(navyBlue=8)          //return value
+
+
+
