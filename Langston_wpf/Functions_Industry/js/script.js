@@ -12,4 +12,7 @@ function cpuDisks(First1, Second2){
     }
 
 
+   console.log(cpuDisks(20,40));
+
+
 
