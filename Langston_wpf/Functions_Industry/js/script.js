@@ -19,3 +19,6 @@ function software (First1, Second2)
 
 {
     return (30) * (2);
+}
+console.log(software(7));
+
