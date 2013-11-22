@@ -20,3 +20,10 @@ return value(navyBlue=8)          //return value
 else if(lightBlue<=9)             //else if statement
 return (navyBlue=0)               //return value
 
+else if (white > black)           //else if statement
+return (navyBlue=20)              //return value 
+
+
+
+
+
