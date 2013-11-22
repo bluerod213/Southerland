@@ -17,5 +17,6 @@ var black = 10;                 //Black has a value of 10
 if(value == lightBlue)            //if statement
 return value(navyBlue=8)          //return value
 
-
+else if(lightBlue<=9)             //else if statement
+return (navyBlue=0)               //return value
 
