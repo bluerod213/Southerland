@@ -10,5 +10,7 @@ var value = 5 * ' ';          //Variable for value times ' '
 
 var navyBlue;                   //Navy blue has no value
 var lightBlue = 13;              //Light blue value is equal to 0
+var white = 15;                 //White has a value of 15
+var black = 10;                 //Black has a value of 10
 
 
