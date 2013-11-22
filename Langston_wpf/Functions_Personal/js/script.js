@@ -9,5 +9,6 @@ function coloredRooms(){    //My function
 var value = 5 * ' ';          //Variable for value times ' '
 
 var navyBlue;                   //Navy blue has no value
+var lightBlue = 13;              //Light blue value is equal to 0
 
 
