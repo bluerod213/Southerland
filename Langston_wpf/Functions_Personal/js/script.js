@@ -25,5 +25,7 @@ return (navyBlue=20)              //return value
 
 
 
+}
 
+console.log(coloredRooms());        //For the navy blue room 20 buckets of paint are needed
 
